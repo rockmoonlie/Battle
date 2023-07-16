@@ -7,18 +7,23 @@ the style sheet of the browser*/
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
 main section:first-of-type{
-    border: 1px solid rgb(0, 0, 0);
     height: 204px;
 }
 
 body{
-    padding: 209px 80px 313.09px 80px;
+    padding: 83px 80px 161px 80px;
     overflow-x: hidden;
+    background-color: #F2F2F2;
+}
+
+.color{
+    background-color:white ;
+    padding-bottom: 152.09px;
 }
 
 main section:last-of-type{
-    border: 1px solid rgb(0, 0, 0);
     height: 374px;
     display: grid;
     grid-template-columns:repeat(2,1fr);
