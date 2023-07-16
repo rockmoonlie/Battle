@@ -12,6 +12,10 @@ main section:first-of-type{
     height: 204px;
 }
 
+body{
+    margin: 80px;
+}
+
 main section:last-of-type{
     border: 1px solid rgb(0, 0, 0);
     height: 374px;
