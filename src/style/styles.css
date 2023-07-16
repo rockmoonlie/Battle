@@ -13,7 +13,8 @@ main section:first-of-type{
 }
 
 body{
-    margin: 80px;
+    padding: 209px 80px 313.09px 80px;
+    overflow-x: hidden;
 }
 
 main section:last-of-type{
@@ -696,7 +697,8 @@ legend article:last-child>p:last-of-type{
     grid-template-columns:repeat(3,1fr);
     grid-template-rows:repeat(2,275px) ;
     column-gap: 30px;
-
+    margin-left:80px;
+    margin-right:144px;
 }
 
 .finally2 article{
@@ -704,3 +706,63 @@ legend article:last-child>p:last-of-type{
     font-family: 'Montserrat', sans-serif;
 }
 
+.fin{
+    background-color: #E5E5E5;
+
+}
+
+.fin2 h4{
+    font-family:'Montserrat', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; 
+    letter-spacing: -0.36px;
+    margin-bottom: 24px;
+
+}
+
+.fin p{
+    font-family:'Montserrat', sans-serif;
+    color: rgba(0, 0, 0, 0.80);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    letter-spacing: -0.27px;
+   
+}
+
+.fin2{
+     padding: 64px;
+
+}
+
+.fini h1{
+    width: 750px;
+    height: 144px;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 72px;
+    letter-spacing: -0.72px;
+    margin:120px 850px 20px 0px;
+    font-family:'Montserrat', sans-serif;
+}
+
+.fini p{
+    width: 1392px;
+    height: 100px;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px; 
+    letter-spacing: -0.54px;
+    font-family:'Montserrat', sans-serif;
+    padding:20px 280px 100px 0px;
+}
+
+.fini{
+    margin-left: 80px;
+    margin-right: 208px;
+}
