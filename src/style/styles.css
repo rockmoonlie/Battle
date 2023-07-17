@@ -13,7 +13,7 @@ main section:first-of-type{
 }
 
 body{
-    padding: 83px 80px 161px 80px;
+    margin: 83px 80px 161px 80px;
     overflow-x: hidden;
     background-color: #F2F2F2;
 }
